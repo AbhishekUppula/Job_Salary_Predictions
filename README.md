@@ -59,3 +59,9 @@ SourceName - the name of the website or advertiser from whom we received the job
 
 All of the data is real, live data used in job ads so is clearly subject to lots of real world noise, including but not limited to: ads that are not UK based, salaries that are incorrectly stated, fields that are incorrectly normalised and duplicate adverts.
 
+
+For Detailed coding can go here https://github.com/AbhishekUppula/Job_Salary_Predictions/blob/main/JobSalaryPrediction.ipynb
+
+Please check and give us suggestions on my first model.
+
+Thanks....
