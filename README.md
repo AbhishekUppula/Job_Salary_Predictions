@@ -1,2 +1,2 @@
-# Job_Salary_Predictions
+# Job Salary Predictions
  
